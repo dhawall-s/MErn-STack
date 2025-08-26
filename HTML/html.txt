@@ -1,0 +1,15 @@
+HTML: Hyper Text Markup Language
+
+when clinet sends a request to server then it will return a html file with css and js files
+on a web browser then the web browser try to render it so that it can show the desired output on the browser screen.
+
+HTML - skeleton of a website
+CSS - OUter Beauty of a website
+Js- Interactivity or jaan daalna website mein
+
+
+Hyper Text -> Hyper Link
+Markup Language -> Provide some focus or highlighting the text in  a  HTML file.
+
+127.0.0.1:     3000
+---Ip Ad---Port number--
