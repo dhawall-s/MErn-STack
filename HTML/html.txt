@@ -11,5 +11,5 @@ Js- Interactivity or jaan daalna website mein
 Hyper Text -> Hyper Link
 Markup Language -> Provide some focus or highlighting the text in  a  HTML file.
 
-127.0.0.1:     3000
+127.0.0.1:     3000 --> loop back address -> means we are creating a server in our pc
 ---Ip Ad---Port number--
