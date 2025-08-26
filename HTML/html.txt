@@ -13,3 +13,14 @@ Markup Language -> Provide some focus or highlighting the text in  a  HTML file.
 
 127.0.0.1:     3000 --> loop back address -> means we are creating a server in our pc
 ---Ip Ad---Port number--
+
+<h1> -> opening Tag
+
+</h1> ->closing Tag
+
+<h1> one </h1> -> poore ko element bolte
+
+
+br and hr tags are self closing tags
+
+as we write in para we can use preformatted tags
