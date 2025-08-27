@@ -24,3 +24,6 @@ Markup Language -> Provide some focus or highlighting the text in  a  HTML file.
 br and hr tags are self closing tags
 
 as we write in para we can use preformatted tags
+
+
+attributes -> elements ko styles dena
